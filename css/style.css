@@ -1,0 +1,114 @@
+.HBR{
+    font-family: 'Black Ops One', cursive;
+    color: darkblue;
+}
+.container{
+    max-width:1000px;
+    background-color: white; 
+    height: 145vh;
+}
+.body{     
+ background: no-repeat;
+}
+.parallax-window {
+    min-height: 290px;
+    background: transparent;
+    background-size: cover; 
+}
+.info{
+    z-index: 2;
+    position: relative;
+}
+
+p{
+    color: black;
+    font-family: 'Muli', sans-serif;
+}
+/* .head{
+    text-align: center;
+    font-size: 70px;
+    
+} */
+/* .carousel-slide{
+    height: 133vh;
+} */
+ #slide1{
+    height: 120vh;
+} 
+#left{
+    width: 600px;
+    float: left;
+}
+#right{
+    width: 600px;
+    float:right;
+}
+
+.navbar{
+    color: blue;
+    background-color: black;
+    font-family: 'Muli', sans-serif;
+    font-size: 17px;
+}
+/* .logos{
+align-content: center;    
+} */
+#logo5{
+    height: 90px;
+}
+#logo4{
+    height: 90px;
+}
+#logo3{
+    height: 100px;
+}
+#logo1{
+    height: 70px;
+}
+#logo{
+    height: 100px;
+}
+#logox{
+    height: 20vh;
+   
+}
+#logox2{
+    height: 55vh;
+   
+}
+/* h1{
+    font-family: 'Black Ops One', cursive;
+    color: blue;
+    background-color: black;
+    text-align: center;
+} */
+h2,h3,h4,h5{
+    font-family: 'Black Ops One', cursive;
+    color: blue;
+    font-size: 15px;
+}
+.top{
+    font-family: 'Black Ops One', cursive;
+    color: darkblue;
+    background-color: black;
+    text-align: center;   
+    font-size: 55px;
+}
+#hnote{
+    text-align: center;
+    font-size: 20px;
+    font-family:'Black Ops One', cursive;
+    color: yellow;
+}
+#Kenyacup{
+    height:60vh;
+}
+#kc{
+    font-size: 20px;
+    font-family: 'Black Ops One', cursive;
+    padding-left: 50px;
+
+}
+#partners{
+    height:100vh;
+}
